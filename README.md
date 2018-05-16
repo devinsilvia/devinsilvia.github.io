@@ -2,7 +2,7 @@
 
 Although I originally set up this page to experiment with Jekyll and GitHub pages, I've decided to build and host my own site using Jekyll.
 
-Feel free to check it out [here](devinsilvia.com).
+Feel free to check it out [here](http://devinsilvia.com).
 
 <!-- You can use the [editor on GitHub](https://github.com/devinsilvia/devinsilvia.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
